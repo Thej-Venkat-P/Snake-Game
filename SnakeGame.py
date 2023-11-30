@@ -8,7 +8,7 @@ def SnakeGame() :
     GameSpeed = 100
     GameObjectSize = 25
     SnakeBodyParts = 4
-    SnakeColour = "#00FF88"
+    SnakeColour = "#FF0099"
     FoodColour = "#FF0000"
     BackgroundColour = "#000000"
 

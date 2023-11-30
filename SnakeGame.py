@@ -1,5 +1,6 @@
 from tkinter import *
 import random
+
 # Snake-Game Code
 
 def SnakeGame() :

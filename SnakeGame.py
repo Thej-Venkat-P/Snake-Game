@@ -1,7 +1,7 @@
 from tkinter import *
 import random
-# Snake Game
- 
+# Snake Game Code
+
 def SnakeGame() :
     GameWidth = 500
     GameHeight = 500
